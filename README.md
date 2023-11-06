@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/joKid21/local-port-scanner">
-    <img src="Logo/port-scan.png" alt="Logo" width="265" height="177.5">
+    <img src="Logo/Port-scan.png" alt="Logo" width="265" height="177.5">
   </a>
 
   <h3 align="center">local Port Scan</h3>
